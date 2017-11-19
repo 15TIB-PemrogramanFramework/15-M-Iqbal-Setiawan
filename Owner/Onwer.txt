@@ -1,0 +1,8 @@
+Nama		: M. Iqbal Setiawan
+Alamat		: Jl.Alam Raya Gg.Naras 3
+Alamat Email	: setiawan15ti@mahasiswa.pcr.ac.id
+Jenis Kelamin	: Laki-laki
+Umur		: 20
+TTL		: Pekanbaru, 9 Oktober 1997
+NIM		: 1555301049
+Kelas		: 3TIB
